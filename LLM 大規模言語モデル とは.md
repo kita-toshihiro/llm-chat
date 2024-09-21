@@ -4,8 +4,6 @@
 とは、人工知能（AI）の一種であり、コンピュータが人間の言語を理解し、自然な文章を生成するための技術。LLMは与えられたキーワードや質問に対して適切な回答を生成したり、ある言語から別の言語への翻訳を行ったり、特定のテーマに基づいた創作文章を生成したりすることができる。LLMを用いると、ユーザーの意図を理解し、文脈に応じた自然な対話が可能となる。教育、医療、ビジネスなど、様々な分野で応用が進められている。
 [ハルシネーション](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%82%B7%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD))（もっともらしいウソを教えてくること）には注意が必要。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ECR4oAwocjs?si=n5EuDknhZtwzEhsz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 [Transformer](https://ja.wikipedia.org/wiki/Transformer_(%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%A2%E3%83%87%E3%83%AB))（GPTやGeminiで採用されている計算方法）の図式的説明（[デモサイト](https://poloclub.github.io/transformer-explainer/)）
 
 [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/)   
