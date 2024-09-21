@@ -38,7 +38,8 @@ Google AI Studio & Vertex AI Studio：Gemini API 利用方法の違い（クラ�
 Pricing (OpenAI) [https://openai.com/api/pricing/](https://openai.com/api/pricing/)  
 Gemini API Pricing (Google) [https://ai.google.dev/pricing](https://ai.google.dev/pricing)
 
-**本日の講座参加者のためのデモサイト**
+<br>
+###本日の講座参加者のためのデモサイト
 [https://jula1.rcis.jp:6677/](
 https://jula1.rcis.jp:6677/)
 
