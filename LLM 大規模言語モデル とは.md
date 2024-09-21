@@ -39,7 +39,9 @@ Pricing (OpenAI) [https://openai.com/api/pricing/](https://openai.com/api/pricin
 Gemini API Pricing (Google) [https://ai.google.dev/pricing](https://ai.google.dev/pricing)
 
 <br>
-###本日の講座参加者のためのデモサイト
+
+### 本日の講座参加者のためのデモサイト
+
 [https://jula1.rcis.jp:6677/](
 https://jula1.rcis.jp:6677/)
 
