@@ -11,17 +11,7 @@
 
 <br>
 
-### まずはChatGPTやGeminiを標準のチャット画面で利用してみる
-
-プロンプト（入力文字）に「〇〇についての４択問題を２問作成してください。」と書いて送信したら、クイズ問題２問が作成されましたか。
-
-何度も同じプロンプトを送信してみると、問題の内容が毎回変わり、問題文の書式も一定でなく変化することがわかります。自分が望む形式で出力してほしい場合は、例示を含めるなど、プロンプトの書き方を工夫する必要があります。
-
-**演習：** 小テスト問題を生成するときに各問題の**解説**も出力するようなプロンプトを入力して、実際に生成してみてください。
-
-<br>
-
-### APIを使ってGPT, Gemini の機能を利用する
+### プログラムの中で LLM の機能を利用する
 
 ChatGPTのウェブサイトやスマートフォンアプリでGPTを使ったり、Geminiのウェブサイトやスマートフォンアプリで Geminiを使ったりすることでも、十分に便利さを享受できますが、API（プログラムから呼び出して処理結果を受け取る仕組み）を使ってそれらの機能を使うことができると、自分が作ったプログラム、アプリなどからGPTやGeminiを呼び出して利用することができ、更に様々な用途の可能性が広がります。
 
@@ -30,11 +20,13 @@ ChatGPT APIの料金を全て紹介！GPT3.5とGPT4-Turbo、最新のGPT-4oに�
 [GPT-4o-mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) に取って代わられています）  
 [https://aitechworld.info/chatgpt-api-price/](https://aitechworld.info/chatgpt-api-price/)  
 
+（2024年9月には、o1 という GPT-4o よりも推論能力が高いと言われるモデルも公開されました。）
+
 Google AI Studio & Vertex AI Studio：Gemini API 利用方法の違い（クラウドエース）  
 （無料で使える枠もあるようですが、その場合、入力データがモデル学習に使われることに注意です）
 [https://zenn.dev/cloud_ace/articles/e5c13b4fdaeb42](https://zenn.dev/cloud_ace/articles/e5c13b4fdaeb42)
 
-**APIの利用料**は、頻繁に変更されるので、都度、以下でチェックをしておくのが良いです：  
+**APIの利用料**は、頻繁に変更されます：  
 Pricing (OpenAI) [https://openai.com/api/pricing/](https://openai.com/api/pricing/)  
 Gemini API Pricing (Google) [https://ai.google.dev/pricing](https://ai.google.dev/pricing)
 
@@ -44,4 +36,13 @@ Gemini API Pricing (Google) [https://ai.google.dev/pricing](https://ai.google.de
 
 [https://jula1.rcis.jp:6677/](
 https://jula1.rcis.jp:6677/)
+
+
+### ChatGPTやGeminiを標準のチャット画面で利用してみる
+
+プロンプト（入力文字）に「〇〇についての４択問題を２問作成してください。」と書いて送信してみてください。クイズ問題２問が作成されましたか。
+
+何度も同じプロンプトを送信してみると、問題の内容が毎回変わり、問題文の書式も一定でなく変化することがわかります。自分が望む形式で出力してほしい場合は、例示を含めるなど、プロンプトの書き方を工夫する必要があります。
+
+**演習：** 小テスト問題を生成するときに各問題の**解説**も出力するようなプロンプトを入力して、実際に生成してみてください。
 
